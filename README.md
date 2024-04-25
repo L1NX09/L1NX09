@@ -1,13 +1,17 @@
 [![MasterHead](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif)](https://www.youtube.com/channel/UClHVDyh6NAW0s_EAQZ9nNYg)
 <h1 align="center">Hi 👋, I'm Linus Arneng</h1>
-<h3 align="center">A passionate frontend developer from Sweden</h3>
+<h3 align="center">A passionate FullStack developer from Sweden</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l1nx09&label=Profile%20views&color=0e75b6&style=flat" alt="l1nx09" /> </p>
 
+- 🔭 I’m currently working on a game
+
 - 🌱 I’m currently learning **vim, linux**
 
 - 💬 Ask me about **Python, Pygame**
+
+- 📫 How to reach me linus.arneng@scalebit.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
